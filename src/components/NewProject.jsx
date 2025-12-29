@@ -1,4 +1,4 @@
-import Input from './input.jsx';
+import Input from './Input.jsx';
 
 export default function NewProject() {
     return (
